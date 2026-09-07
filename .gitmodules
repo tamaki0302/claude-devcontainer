@@ -1,0 +1,3 @@
+[submodule "submodules/buddy-call"]
+	path = submodules/buddy-call
+	url = https://github.com/tamaki0302/buddy-call.git
